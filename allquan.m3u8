@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1
 #EXTINF:-1 tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000001.png",1
 http://10.0.0.1:9000/rtp/239.11.0.1:1025
 #EXTINF:-1 tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000001.png",2
@@ -1020,4 +1019,3 @@ http://10.0.0.1:9000/rtp/239.10.0.253:1025
 http://10.0.0.1:9000/rtp/239.10.0.254:1025
 #EXTINF:-1 tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000001.png",510
 http://10.0.0.1:9000/rtp/239.10.0.255:1025
-#EXTINF:-1 tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000001.png",511
