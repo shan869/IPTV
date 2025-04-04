@@ -55,16 +55,20 @@ http://10.0.0.1:9000/rtp/239.10.0.250:1025
 http://10.0.0.1:9000/rtp/239.10.0.251:1025
 #EXTINF:-1 group-title="咪咕" ,507-咪咕
 http://10.0.0.1:9000/rtp/239.10.0.252:1025
-#EXTINF:-1 group-title="超清" ,161-4Kcctv4k超高清25fps
+#EXTINF:-1 group-title="4K超高清" ,161-4Kcctv4k超高清25fps
 http://10.0.0.1:9000/rtp/239.11.0.161:1025
-#EXTINF:-1 group-title="超清" ,162-4Kcctv4k超高清50fps
+#EXTINF:-1 group-title="4K超高清" ,162-4Kcctv4k超高清50fps
 http://10.0.0.1:9000/rtp/239.11.0.162:1025
-#EXTINF:-1 group-title="超清" ,329-4k广东超高清
+#EXTINF:-1 group-title="4K超高清" ,329-4k广东超高清
 http://10.0.0.1:9000/rtp/239.10.0.74:1025
-#EXTINF:-1 group-title="超清" ,330-4k广东超高清
+#EXTINF:-1 group-title="4K超高清" ,330-4k广东超高清
 http://10.0.0.1:9000/rtp/239.10.0.75:1025
-#EXTINF:-1 group-title="超清" ,170-4K南国都市
+#EXTINF:-1 group-title="4K超高清" ,170-4K南国都市
 http://10.0.0.1:9000/rtp/239.11.0.170:1025
+#EXTINF:-1 group-title="4K超高清" ,191-4K25FPS北京卫视
+http://10.0.10.1:9000/rtp/239.11.0.191:1025
+#EXTINF:-1 group-title="4K超高清" ,192-4K50FPS北京卫视
+http://10.0.10.1:9000/rtp/239.11.0.192:1025
 #EXTINF:-1 group-title="超清" ,302-超清广东体育
 http://10.0.0.1:9000/rtp/239.10.0.47:1025
 #EXTINF:-1 group-title="超清" ,300-超清广东卫视
