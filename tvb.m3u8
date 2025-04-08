@@ -9,6 +9,8 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1,jdshipin无线新闻25
 http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+#EXTINF:-1,110.235.82.60無綫新聞台25
+http://110.235.82.60:8001/bysid/83
 #EXTINF:-1,jdshipin无线新闻25
 http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1,jdshipin无线新闻25
