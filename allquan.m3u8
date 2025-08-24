@@ -25,13 +25,13 @@ http://10.0.0.1:9000/rtp/239.11.0.11:1025
 http://10.0.0.1:9000/rtp/239.11.0.12:1025
 #EXTINF:-1 group-title="咪咕" ,13-咪咕
 http://10.0.0.1:9000/rtp/239.11.0.13:1025
-#EXTINF:-1,14-粤TV
+#EXTINF:-1 group-title="粤TV" ,14-粤TV
 http://10.0.0.1:9000/rtp/239.11.0.14:1025
-#EXTINF:-1,15-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,15-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.11.0.15:1025
-#EXTINF:-1,16-高清中山综合
+#EXTINF:-1 group-title="高清" ,16-高清中山综合
 http://10.0.0.1:9000/rtp/239.11.0.16:1025
-#EXTINF:-1,17-无
+#EXTINF:-1 group-title="无" ,17-无
 http://10.0.0.1:9000/rtp/239.11.0.17:1025
 #EXTINF:-1 group-title="咪咕" ,18-咪咕
 http://10.0.0.1:9000/rtp/239.11.0.18:1025
@@ -43,643 +43,643 @@ http://10.0.0.1:9000/rtp/239.11.0.20:1025
 http://10.0.0.1:9000/rtp/239.11.0.21:1025
 #EXTINF:-1 group-title="咪咕" ,22-咪咕
 http://10.0.0.1:9000/rtp/239.11.0.22:1025
-#EXTINF:-1,23-无-IPTV影视推荐
+#EXTINF:-1 group-title="无" ,23-无-
 http://10.0.0.1:9000/rtp/239.11.0.23:1025
-#EXTINF:-1,24-高清CCTV11戏曲
+#EXTINF:-1 group-title="高清" ,24-高清CCTV11戏曲
 http://10.0.0.1:9000/rtp/239.11.0.24:1025
-#EXTINF:-1,25-高清CCTV15音乐
+#EXTINF:-1 group-title="高清" ,25-高清CCTV15音乐
 http://10.0.0.1:9000/rtp/239.11.0.25:1025
-#EXTINF:-1,26-粤TV
+#EXTINF:-1 group-title="粤TV" ,26-粤TV
 http://10.0.0.1:9000/rtp/239.11.0.26:1025
-#EXTINF:-1,27-无
+#EXTINF:-1 group-title="无" ,27-无
 http://10.0.0.1:9000/rtp/239.11.0.27:1025
-#EXTINF:-1,28-无
+#EXTINF:-1 group-title="无" ,28-无
 http://10.0.0.1:9000/rtp/239.11.0.28:1025
-#EXTINF:-1,29-无
+#EXTINF:-1 group-title="无" ,29-无
 http://10.0.0.1:9000/rtp/239.11.0.29:1025
-#EXTINF:-1,30-无
+#EXTINF:-1 group-title="无" ,30-无
 http://10.0.0.1:9000/rtp/239.11.0.30:1025
-#EXTINF:-1,31-无
+#EXTINF:-1 group-title="无" ,31-无
 http://10.0.0.1:9000/rtp/239.11.0.31:1025
-#EXTINF:-1,32-无
+#EXTINF:-1 group-title="无" ,32-无
 http://10.0.0.1:9000/rtp/239.11.0.32:1025
-#EXTINF:-1,33-无
+#EXTINF:-1 group-title="无" ,33-无
 http://10.0.0.1:9000/rtp/239.11.0.33:1025
-#EXTINF:-1,34-无
+#EXTINF:-1 group-title="无" ,34-无
 http://10.0.0.1:9000/rtp/239.11.0.34:1025
-#EXTINF:-1,35-标清CETV2
+#EXTINF:-1 group-title="标清" ,35-标清CETV2
 http://10.0.0.1:9000/rtp/239.11.0.35:1025
-#EXTINF:-1,36-标清CETV4
+#EXTINF:-1 group-title="标清" ,36-标清CETV4
 http://10.0.0.1:9000/rtp/239.11.0.36:1025
-#EXTINF:-1,37-无
+#EXTINF:-1 group-title="无" ,37-无
 http://10.0.0.1:9000/rtp/239.11.0.37:1025
-#EXTINF:-1,38-无
+#EXTINF:-1 group-title="无" ,38-无
 http://10.0.0.1:9000/rtp/239.11.0.38:1025
-#EXTINF:-1,39-无
+#EXTINF:-1 group-title="无" ,39-无
 http://10.0.0.1:9000/rtp/239.11.0.39:1025
-#EXTINF:-1,40-无
+#EXTINF:-1 group-title="无" ,40-无
 http://10.0.0.1:9000/rtp/239.11.0.40:1025
-#EXTINF:-1,41-无
+#EXTINF:-1 group-title="无" ,41-无
 http://10.0.0.1:9000/rtp/239.11.0.41:1025
-#EXTINF:-1,42-无
+#EXTINF:-1 group-title="无" ,42-无
 http://10.0.0.1:9000/rtp/239.11.0.42:1025
-#EXTINF:-1,43-无
+#EXTINF:-1 group-title="无" ,43-无
 http://10.0.0.1:9000/rtp/239.11.0.43:1025
-#EXTINF:-1,44-无
+#EXTINF:-1 group-title="无" ,44-无
 http://10.0.0.1:9000/rtp/239.11.0.44:1025
-#EXTINF:-1,45-无
+#EXTINF:-1 group-title="无" ,45-无
 http://10.0.0.1:9000/rtp/239.11.0.45:1025
-#EXTINF:-1,46-无
+#EXTINF:-1 group-title="无" ,46-无
 http://10.0.0.1:9000/rtp/239.11.0.46:1025
-#EXTINF:-1,47-无
+#EXTINF:-1 group-title="无" ,47-无
 http://10.0.0.1:9000/rtp/239.11.0.47:1025
-#EXTINF:-1,48-无
+#EXTINF:-1 group-title="无" ,48-无
 http://10.0.0.1:9000/rtp/239.11.0.48:1025
-#EXTINF:-1,49-无
+#EXTINF:-1 group-title="无" ,49-无
 http://10.0.0.1:9000/rtp/239.11.0.49:1025
-#EXTINF:-1,50-无
+#EXTINF:-1 group-title="无" ,50-无
 http://10.0.0.1:9000/rtp/239.11.0.50:1025
-#EXTINF:-1,51-无
+#EXTINF:-1 group-title="无" ,51-无
 http://10.0.0.1:9000/rtp/239.11.0.51:1025
-#EXTINF:-1,52-无
+#EXTINF:-1 group-title="无" ,52-无
 http://10.0.0.1:9000/rtp/239.11.0.52:1025
-#EXTINF:-1,53-高清肇庆综合
+#EXTINF:-1 group-title="高清" ,53-高清肇庆综合
 http://10.0.0.1:9000/rtp/239.11.0.53:1025
-#EXTINF:-1,54-高清肇庆生活服务
+#EXTINF:-1 group-title="高清" ,54-高清肇庆生活服务
 http://10.0.0.1:9000/rtp/239.11.0.54:1025
-#EXTINF:-1,55-无
+#EXTINF:-1 group-title="无" ,55-无
 http://10.0.0.1:9000/rtp/239.11.0.55:1025
-#EXTINF:-1,56-无
+#EXTINF:-1 group-title="无" ,56-无
 http://10.0.0.1:9000/rtp/239.11.0.56:1025
-#EXTINF:-1,57-高清CCTV兵器科技
+#EXTINF:-1 group-title="高清" ,57-高清CCTV兵器科技
 http://10.0.0.1:9000/rtp/239.11.0.57:1025
-#EXTINF:-1,58-高清CCTV电视指南
+#EXTINF:-1 group-title="高清" ,58-高清CCTV电视指南
 http://10.0.0.1:9000/rtp/239.11.0.58:1025
-#EXTINF:-1,59-高清CCTV风云足球
+#EXTINF:-1 group-title="高清" ,59-高清CCTV风云足球
 http://10.0.0.1:9000/rtp/239.11.0.59:1025
-#EXTINF:-1,60-高清CCTV央视台球
+#EXTINF:-1 group-title="高清" ,60-高清CCTV央视台球
 http://10.0.0.1:9000/rtp/239.11.0.60:1025
-#EXTINF:-1,61-高清CCTV高尔夫网球
+#EXTINF:-1 group-title="高清" ,61-高清CCTV高尔夫网球
 http://10.0.0.1:9000/rtp/239.11.0.61:1025
-#EXTINF:-1,62-高清CCTV女性时尚
+#EXTINF:-1 group-title="高清" ,62-高清CCTV女性时尚
 http://10.0.0.1:9000/rtp/239.11.0.62:1025
-#EXTINF:-1,63-高清CCTV世界地理
+#EXTINF:-1 group-title="高清" ,63-高清CCTV世界地理
 http://10.0.0.1:9000/rtp/239.11.0.63:1025
-#EXTINF:-1,64-高清CCTV怀旧剧场
+#EXTINF:-1 group-title="高清" ,64-高清CCTV怀旧剧场
 http://10.0.0.1:9000/rtp/239.11.0.64:1025
-#EXTINF:-1,65-高清CCTV风云剧场
+#EXTINF:-1 group-title="高清" ,65-高清CCTV风云剧场
 http://10.0.0.1:9000/rtp/239.11.0.65:1025
-#EXTINF:-1,66-高清CCTV央视文化精品
+#EXTINF:-1 group-title="高清" ,66-高清CCTV央视文化精品
 http://10.0.0.1:9000/rtp/239.11.0.66:1025
-#EXTINF:-1,67-高清CCTV第一剧场
+#EXTINF:-1 group-title="高清" ,67-高清CCTV第一剧场
 http://10.0.0.1:9000/rtp/239.11.0.67:1025
-#EXTINF:-1,68-高清CCTV风云音乐
+#EXTINF:-1 group-title="高清" ,68-高清CCTV风云音乐
 http://10.0.0.1:9000/rtp/239.11.0.68:1025
-#EXTINF:-1,69-标清江门综合
+#EXTINF:-1 group-title="标清" ,69-标清江门综合
 http://10.0.0.1:9000/rtp/239.11.0.69:1025
-#EXTINF:-1,70-标清江门侨乡生活
+#EXTINF:-1 group-title="标清" ,70-标清江门侨乡生活
 http://10.0.0.1:9000/rtp/239.11.0.70:1025
-#EXTINF:-1,71-无粤TV
+#EXTINF:-1 group-title="无" ,71-无
 http://10.0.0.1:9000/rtp/239.11.0.71:1025
-#EXTINF:-1,72-无
+#EXTINF:-1 group-title="无" ,72-无
 http://10.0.0.1:9000/rtp/239.11.0.72:1025
-#EXTINF:-1,73-无
+#EXTINF:-1 group-title="无" ,73-无
 http://10.0.0.1:9000/rtp/239.11.0.73:1025
-#EXTINF:-1,74-高清清远新闻综合
+#EXTINF:-1 group-title="高清" ,74-高清清远新闻综合
 http://10.0.0.1:9000/rtp/239.11.0.74:1025
-#EXTINF:-1,75-无高清清远文旅生活
+#EXTINF:-1 group-title="无" ,75-无
 http://10.0.0.1:9000/rtp/239.11.0.75:1025
-#EXTINF:-1,76-标清云浮综合
+#EXTINF:-1 group-title="标清" ,76-标清云浮综合
 http://10.0.0.1:9000/rtp/239.11.0.76:1025
-#EXTINF:-1,77-标清云浮文旅
+#EXTINF:-1 group-title="标清" ,77-标清云浮文旅
 http://10.0.0.1:9000/rtp/239.11.0.77:1025
-#EXTINF:-1,78-高清大湾区卫视
+#EXTINF:-1 group-title="高清" ,78-高清大湾区卫视
 http://10.0.0.1:9000/rtp/239.11.0.78:1025
-#EXTINF:-1,79-高清广东影视
+#EXTINF:-1 group-title="高清" ,79-高清广东影视
 http://10.0.0.1:9000/rtp/239.11.0.79:1025
-#EXTINF:-1,80-高清广东民生
+#EXTINF:-1 group-title="高清" ,80-高清广东民生
 http://10.0.0.1:9000/rtp/239.11.0.80:1025
-#EXTINF:-1,81-高清广东少儿
+#EXTINF:-1 group-title="高清" ,81-高清广东少儿
 http://10.0.0.1:9000/rtp/239.11.0.81:1025
-#EXTINF:-1,82-无
+#EXTINF:-1 group-title="无" ,82-无
 http://10.0.0.1:9000/rtp/239.11.0.82:1025
-#EXTINF:-1,83-无
+#EXTINF:-1 group-title="无" ,83-无
 http://10.0.0.1:9000/rtp/239.11.0.83:1025
-#EXTINF:-1,84-高清韶关新闻综合
+#EXTINF:-1 group-title="高清" ,84-高清韶关新闻综合
 http://10.0.0.1:9000/rtp/239.11.0.84:1025
-#EXTINF:-1,85-无粤TV
+#EXTINF:-1 group-title="无" ,85-无
 http://10.0.0.1:9000/rtp/239.11.0.85:1025
-#EXTINF:-1,86-无
+#EXTINF:-1 group-title="无" ,86-无
 http://10.0.0.1:9000/rtp/239.11.0.86:1025
-#EXTINF:-1,87-无
+#EXTINF:-1 group-title="无" ,87-无
 http://10.0.0.1:9000/rtp/239.11.0.87:1025
-#EXTINF:-1,88-无
+#EXTINF:-1 group-title="无" ,88-无
 http://10.0.0.1:9000/rtp/239.11.0.88:1025
-#EXTINF:-1,89-无
+#EXTINF:-1 group-title="无" ,89-无
 http://10.0.0.1:9000/rtp/239.11.0.89:1025
-#EXTINF:-1,90-无
+#EXTINF:-1 group-title="无" ,90-无
 http://10.0.0.1:9000/rtp/239.11.0.90:1025
-#EXTINF:-1,91-无标清南海
+#EXTINF:-1 group-title="无" ,91-无
 http://10.0.0.1:9000/rtp/239.11.0.91:1025
-#EXTINF:-1,92-无IPTV影视推荐
+#EXTINF:-1 group-title="无" ,92-无
 http://10.0.0.1:9000/rtp/239.11.0.92:1025
-#EXTINF:-1,93-高清北京卫视
+#EXTINF:-1 group-title="高清" ,93-高清北京卫视
 http://10.0.0.1:9000/rtp/239.11.0.93:1025
-#EXTINF:-1,94-高清河南卫视
+#EXTINF:-1 group-title="高清" ,94-高清河南卫视
 http://10.0.0.1:9000/rtp/239.11.0.94:1025
-#EXTINF:-1,95-高清南方购物
+#EXTINF:-1 group-title="高清" ,95-高清南方购物
 http://10.0.0.1:9000/rtp/239.11.0.95:1025
-#EXTINF:-1,96-高清云浮综合
+#EXTINF:-1 group-title="高清" ,96-高清云浮综合
 http://10.0.0.1:9000/rtp/239.11.0.96:1025
-#EXTINF:-1,97-高清云浮文旅
+#EXTINF:-1 group-title="高清" ,97-高清云浮文旅
 http://10.0.0.1:9000/rtp/239.11.0.97:1025
-#EXTINF:-1,98-无
+#EXTINF:-1 group-title="无" ,98-无
 http://10.0.0.1:9000/rtp/239.11.0.98:1025
-#EXTINF:-1,99-高清茂名文化生活
+#EXTINF:-1 group-title="高清" ,99-高清茂名文化生活
 http://10.0.0.1:9000/rtp/239.11.0.99:1025
-#EXTINF:-1,100-高清CETV早期教育
+#EXTINF:-1 group-title="高清" ,100-高清CETV早期教育
 http://10.0.0.1:9000/rtp/239.11.0.100:1025
-#EXTINF:-1,101-高清中文国际欧洲
+#EXTINF:-1 group-title="高清" ,101-高清中文国际欧洲
 http://10.0.0.1:9000/rtp/239.11.0.101:1025
-#EXTINF:-1,102-高清中文国际美洲
+#EXTINF:-1 group-title="高清" ,102-高清中文国际美洲
 http://10.0.0.1:9000/rtp/239.11.0.102:1025
-#EXTINF:-1,103-高清CGTN
+#EXTINF:-1 group-title="高清" ,103-高清CGTN
 http://10.0.0.1:9000/rtp/239.11.0.103:1025
-#EXTINF:-1,104-高清CGTNDOCUMENTARY
+#EXTINF:-1 group-title="高清" ,104-高清CGTNDOCUMENTARY
 http://10.0.0.1:9000/rtp/239.11.0.104:1025
-#EXTINF:-1,105-高清CGTN西班牙
+#EXTINF:-1 group-title="高清" ,105-高清CGTN西班牙
 http://10.0.0.1:9000/rtp/239.11.0.105:1025
-#EXTINF:-1,106-高清CGTN法国
+#EXTINF:-1 group-title="高清" ,106-高清CGTN法国
 http://10.0.0.1:9000/rtp/239.11.0.106:1025
-#EXTINF:-1,107-高清CGTN阿拉伯
+#EXTINF:-1 group-title="高清" ,107-高清CGTN阿拉伯
 http://10.0.0.1:9000/rtp/239.11.0.107:1025
-#EXTINF:-1,108-高清CGTN俄语
+#EXTINF:-1 group-title="高清" ,108-高清CGTN俄语
 http://10.0.0.1:9000/rtp/239.11.0.108:1025
-#EXTINF:-1,109-标清佛山城市生活
+#EXTINF:-1 group-title="标清" ,109-标清佛山城市生活
 http://10.0.0.1:9000/rtp/239.11.0.109:1025
-#EXTINF:-1,110-标清南海
+#EXTINF:-1 group-title="标清" ,110-标清南海
 http://10.0.0.1:9000/rtp/239.11.0.110:1025
-#EXTINF:-1,111-标清顺德
+#EXTINF:-1 group-title="标清" ,111-标清顺德
 http://10.0.0.1:9000/rtp/239.11.0.111:1025
-#EXTINF:-1,112-无标清佛山影视
+#EXTINF:-1 group-title="无" ,112-无
 http://10.0.0.1:9000/rtp/239.11.0.112:1025
-#EXTINF:-1,113-标清佛山综合
+#EXTINF:-1 group-title="标清" ,113-标清佛山综合
 http://10.0.0.1:9000/rtp/239.11.0.113:1025
-#EXTINF:-1,114-高清佛山城市生活
+#EXTINF:-1 group-title="高清" ,114-高清佛山城市生活
 http://10.0.0.1:9000/rtp/239.11.0.114:1025
-#EXTINF:-1,115-高清南海
+#EXTINF:-1 group-title="高清" ,115-高清南海
 http://10.0.0.1:9000/rtp/239.11.0.115:1025
-#EXTINF:-1,116-高清顺德
+#EXTINF:-1 group-title="高清" ,116-高清顺德
 http://10.0.0.1:9000/rtp/239.11.0.116:1025
-#EXTINF:-1,117-无高清佛山影视
+#EXTINF:-1 group-title="无" ,117-无
 http://10.0.0.1:9000/rtp/239.11.0.117:1025
-#EXTINF:-1,118-高清佛山综合
+#EXTINF:-1 group-title="高清" ,118-高清佛山综合
 http://10.0.0.1:9000/rtp/239.11.0.118:1025
-#EXTINF:-1,119-标清中山综合
+#EXTINF:-1 group-title="标清" ,119-标清中山综合
 http://10.0.0.1:9000/rtp/239.11.0.119:1025
-#EXTINF:-1,120-标清香山文化
+#EXTINF:-1 group-title="标清" ,120-标清香山文化
 http://10.0.0.1:9000/rtp/239.11.0.120:1025
-#EXTINF:-1,121-无
+#EXTINF:-1 group-title="无" ,121-无
 http://10.0.0.1:9000/rtp/239.11.0.121:1025
-#EXTINF:-1,122-高清中山综合
+#EXTINF:-1 group-title="高清" ,122-高清中山综合
 http://10.0.0.1:9000/rtp/239.11.0.122:1025
-#EXTINF:-1,123-高清香山文化
+#EXTINF:-1 group-title="高清" ,123-高清香山文化
 http://10.0.0.1:9000/rtp/239.11.0.123:1025
-#EXTINF:-1,124-无
+#EXTINF:-1 group-title="无" ,124-无
 http://10.0.0.1:9000/rtp/239.11.0.124:1025
-#EXTINF:-1,125-高清金鹰卡通
+#EXTINF:-1 group-title="高清" ,125-高清金鹰卡通
 http://10.0.0.1:9000/rtp/239.11.0.125:1025
-#EXTINF:-1,126-高清CCTV16奥林匹克
+#EXTINF:-1 group-title="高清" ,126-高清CCTV16奥林匹克
 http://10.0.0.1:9000/rtp/239.11.0.126:1025
-#EXTINF:-1,127-无
+#EXTINF:-1 group-title="无" ,127-无
 http://10.0.0.1:9000/rtp/239.11.0.127:1025
-#EXTINF:-1,128-无高清求索纪录
+#EXTINF:-1 group-title="无" ,128-无高清求索纪录
 http://10.0.0.1:9000/rtp/239.11.0.128:1025
-#EXTINF:-1,129-无广东卫视4K-25原chc影迷电影
+#EXTINF:-1 group-title="无" ,129-无广东卫视4K-25原chc影迷电影
 http://10.0.0.1:9000/rtp/239.11.0.129:1025
-#EXTINF:-1,130-无高清茶频道
+#EXTINF:-1 group-title="无" ,130-无高清茶频道
 http://10.0.0.1:9000/rtp/239.11.0.130:1025
-#EXTINF:-1,131-无高清快乐垂钓
+#EXTINF:-1 group-title="无" ,131-无高清快乐垂钓
 http://10.0.0.1:9000/rtp/239.11.0.131:1025
-#EXTINF:-1,132-无
+#EXTINF:-1 group-title="无" ,132-无
 http://10.0.0.1:9000/rtp/239.11.0.132:1025
-#EXTINF:-1,133-无
+#EXTINF:-1 group-title="无" ,133-无
 http://10.0.0.1:9000/rtp/239.11.0.133:1025
-#EXTINF:-1,134-无
+#EXTINF:-1 group-title="无" ,134-无
 http://10.0.0.1:9000/rtp/239.11.0.134:1025
-#EXTINF:-1,135-无
+#EXTINF:-1 group-title="无" ,135-无
 http://10.0.0.1:9000/rtp/239.11.0.135:1025
-#EXTINF:-1,136-无
+#EXTINF:-1 group-title="无" ,136-无
 http://10.0.0.1:9000/rtp/239.11.0.136:1025
-#EXTINF:-1,137-无
+#EXTINF:-1 group-title="无" ,137-无
 http://10.0.0.1:9000/rtp/239.11.0.137:1025
-#EXTINF:-1,138-高清广州
+#EXTINF:-1 group-title="高清" ,138-高清广州
 http://10.0.0.1:9000/rtp/239.11.0.138:1025
-#EXTINF:-1,139-高清广州新闻
+#EXTINF:-1 group-title="高清" ,139-高清广州新闻
 http://10.0.0.1:9000/rtp/239.11.0.139:1025
-#EXTINF:-1,140-高清广州影视
+#EXTINF:-1 group-title="高清" ,140-高清广州影视
 http://10.0.0.1:9000/rtp/239.11.0.140:1025
-#EXTINF:-1,141-高清广州法治
+#EXTINF:-1 group-title="高清" ,141-高清广州法治
 http://10.0.0.1:9000/rtp/239.11.0.141:1025
-#EXTINF:-1,142-无
+#EXTINF:-1 group-title="无" ,142-无
 http://10.0.0.1:9000/rtp/239.11.0.142:1025
-#EXTINF:-1,143-无
+#EXTINF:-1 group-title="无" ,143-无
 http://10.0.0.1:9000/rtp/239.11.0.143:1025
-#EXTINF:-1,144-无
+#EXTINF:-1 group-title="无" ,144-无
 http://10.0.0.1:9000/rtp/239.11.0.144:1025
-#EXTINF:-1,145-无
+#EXTINF:-1 group-title="无" ,145-无
 http://10.0.0.1:9000/rtp/239.11.0.145:1025
-#EXTINF:-1,146-无
+#EXTINF:-1 group-title="无" ,146-无
 http://10.0.0.1:9000/rtp/239.11.0.146:1025
-#EXTINF:-1,147-无
+#EXTINF:-1 group-title="无" ,147-无
 http://10.0.0.1:9000/rtp/239.11.0.147:1025
-#EXTINF:-1,148-无
+#EXTINF:-1 group-title="无" ,148-无
 http://10.0.0.1:9000/rtp/239.11.0.148:1025
-#EXTINF:-1,149-无
+#EXTINF:-1 group-title="无" ,149-无
 http://10.0.0.1:9000/rtp/239.11.0.149:1025
-#EXTINF:-1,150-无
+#EXTINF:-1 group-title="无" ,150-无
 http://10.0.0.1:9000/rtp/239.11.0.150:1025
-#EXTINF:-1,151-无
+#EXTINF:-1 group-title="无" ,151-无
 http://10.0.0.1:9000/rtp/239.11.0.151:1025
-#EXTINF:-1,152-无
+#EXTINF:-1 group-title="无" ,152-无
 http://10.0.0.1:9000/rtp/239.11.0.152:1025
-#EXTINF:-1,153-无
+#EXTINF:-1 group-title="无" ,153-无
 http://10.0.0.1:9000/rtp/239.11.0.153:1025
-#EXTINF:-1,154-无
+#EXTINF:-1 group-title="无" ,154-无
 http://10.0.0.1:9000/rtp/239.11.0.154:1025
-#EXTINF:-1,155-无
+#EXTINF:-1 group-title="无" ,155-无
 http://10.0.0.1:9000/rtp/239.11.0.155:1025
-#EXTINF:-1,156-无
+#EXTINF:-1 group-title="无" ,156-无
 http://10.0.0.1:9000/rtp/239.11.0.156:1025
-#EXTINF:-1,157-无
+#EXTINF:-1 group-title="无" ,157-无
 http://10.0.0.1:9000/rtp/239.11.0.157:1025
-#EXTINF:-1,158-无
+#EXTINF:-1 group-title="无" ,158-无
 http://10.0.0.1:9000/rtp/239.11.0.158:1025
-#EXTINF:-1,159-无
+#EXTINF:-1 group-title="无" ,159-无
 http://10.0.0.1:9000/rtp/239.11.0.159:1025
-#EXTINF:-1,160-无
+#EXTINF:-1 group-title="无" ,160-无
 http://10.0.0.1:9000/rtp/239.11.0.160:1025
-#EXTINF:-1,161-4KCCTV4K超高清25FPS
+#EXTINF:-1 group-title="4K" ,161-4KCCTV4K超高清25FPS
 http://10.0.0.1:9000/rtp/239.11.0.161:1025
-#EXTINF:-1,162-4KCCTV4K超高清50FPS
+#EXTINF:-1 group-title="4K" ,162-4KCCTV4K超高清50FPS
 http://10.0.0.1:9000/rtp/239.11.0.162:1025
-#EXTINF:-1,163-无粤TV
+#EXTINF:-1 group-title="无" ,163-无
 http://10.0.0.1:9000/rtp/239.11.0.163:1025
-#EXTINF:-1,164-无粤TV
+#EXTINF:-1 group-title="无" ,164-无
 http://10.0.0.1:9000/rtp/239.11.0.164:1025
-#EXTINF:-1,165-无粤TV
+#EXTINF:-1 group-title="无" ,165-无
 http://10.0.0.1:9000/rtp/239.11.0.165:1025
-#EXTINF:-1,166-无粤TV
+#EXTINF:-1 group-title="无" ,166-无
 http://10.0.0.1:9000/rtp/239.11.0.166:1025
-#EXTINF:-1,167-无
+#EXTINF:-1 group-title="无" ,167-无
 http://10.0.0.1:9000/rtp/239.11.0.167:1025
-#EXTINF:-1,168-粤TV
+#EXTINF:-1 group-title="粤TV" ,168-粤TV
 http://10.0.0.1:9000/rtp/239.11.0.168:1025
-#EXTINF:-1,169-无高清天元围棋
+#EXTINF:-1 group-title="无" ,169-无高清天元围棋
 http://10.0.0.1:9000/rtp/239.11.0.169:1025
-#EXTINF:-1,170-4K南国都市
+#EXTINF:-1 group-title="4K" ,170-4K南国都市
 http://10.0.0.1:9000/rtp/239.11.0.170:1025
-#EXTINF:-1,171-高清云南卫视
+#EXTINF:-1 group-title="高清" ,171-高清云南卫视
 http://10.0.0.1:9000/rtp/239.11.0.171:1025
-#EXTINF:-1,172-高清海南卫视
+#EXTINF:-1 group-title="高清" ,172-高清海南卫视
 http://10.0.0.1:9000/rtp/239.11.0.172:1025
-#EXTINF:-1,173-标清中央新影中学生
+#EXTINF:-1 group-title="标清" ,173-标清中央新影中学生
 http://10.0.0.1:9000/rtp/239.11.0.173:1025
-#EXTINF:-1,174-标清书画
+#EXTINF:-1 group-title="标清" ,174-标清书画
 http://10.0.0.1:9000/rtp/239.11.0.174:1025
-#EXTINF:-1,175-高清甘肃卫视
+#EXTINF:-1 group-title="高清" ,175-高清甘肃卫视
 http://10.0.0.1:9000/rtp/239.11.0.175:1025
-#EXTINF:-1,176-高清CETV4
+#EXTINF:-1 group-title="高清" ,176-高清CETV4
 http://10.0.0.1:9000/rtp/239.11.0.176:1025
-#EXTINF:-1,177-高清三沙卫视
+#EXTINF:-1 group-title="高清" ,177-高清三沙卫视
 http://10.0.0.1:9000/rtp/239.11.0.177:1025
-#EXTINF:-1,178-高清CGTNDOCUMENTARY
+#EXTINF:-1 group-title="高清" ,178-高清CGTNDOCUMENTARY
 http://10.0.0.1:9000/rtp/239.11.0.178:1025
-#EXTINF:-1,179-高清青海卫视
+#EXTINF:-1 group-title="高清" ,179-高清青海卫视
 http://10.0.0.1:9000/rtp/239.11.0.179:1025
-#EXTINF:-1,180-高清岭南戏曲
+#EXTINF:-1 group-title="高清" ,180-高清岭南戏曲
 http://10.0.0.1:9000/rtp/239.11.0.180:1025
-#EXTINF:-1,181-高清现代教育
+#EXTINF:-1 group-title="高清" ,181-高清现代教育
 http://10.0.0.1:9000/rtp/239.11.0.181:1025
-#EXTINF:-1,182-标清中央新影发现之旅
+#EXTINF:-1 group-title="标清" ,182-标清中央新影发现之旅
 http://10.0.0.1:9000/rtp/239.11.0.182:1025
-#EXTINF:-1,183-高清睛彩竞技
+#EXTINF:-1 group-title="高清" ,183-高清睛彩竞技
 http://10.0.0.1:9000/rtp/239.11.0.183:1025
-#EXTINF:-1,184-高清睛彩广场舞
+#EXTINF:-1 group-title="高清" ,184-高清睛彩广场舞
 http://10.0.0.1:9000/rtp/239.11.0.184:1025
-#EXTINF:-1,185-高清CCTV卫生健康
+#EXTINF:-1 group-title="高清" ,185-高清CCTV卫生健康
 http://10.0.0.1:9000/rtp/239.11.0.185:1025
-#EXTINF:-1,186-标清南海
+#EXTINF:-1 group-title="标清" ,186-标清南海
 http://10.0.0.1:9000/rtp/239.11.0.186:1025
-#EXTINF:-1,187-IPTV推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,187-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.11.0.187:1025
-#EXTINF:-1,188-IPTV推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,188-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.11.0.188:1025
-#EXTINF:-1,189-高清阳江1
+#EXTINF:-1 group-title="高清" ,189-高清阳江1
 http://10.0.0.1:9000/rtp/239.11.0.189:1025
-#EXTINF:-1,190-高清阳江2
+#EXTINF:-1 group-title="高清" ,190-高清阳江2
 http://10.0.0.1:9000/rtp/239.11.0.190:1025
-#EXTINF:-1,191-4K25FPS北京卫视
+#EXTINF:-1 group-title="4K" ,191-4K25FPS北京卫视
 http://10.0.0.1:9000/rtp/239.11.0.191:1025
-#EXTINF:-1,192-4K50FPS北京卫视
+#EXTINF:-1 group-title="4K" ,192-4K50FPS北京卫视
 http://10.0.0.1:9000/rtp/239.11.0.192:1025
-#EXTINF:-1,193-广东卫视4K 50
+#EXTINF:-1 group-title="4K" ,193-广东卫视4K 50
 http://10.0.0.1:9000/rtp/239.11.0.193:1025
-#EXTINF:-1,194-广东卫视4K 25
+#EXTINF:-1 group-title="4K" ,194-广东卫视4K 25
 http://10.0.0.1:9000/rtp/239.11.0.194:1025
-#EXTINF:-1,195-深圳卫视4K 25
+#EXTINF:-1 group-title="4K" ,195-深圳卫视4K 25
 http://10.0.0.1:9000/rtp/239.11.0.195:1025
-#EXTINF:-1,196-西藏卫视高清
+#EXTINF:-1 group-title="高清" ,196-西藏卫视高清
 http://10.0.0.1:9000/rtp/239.11.0.196:1025
-#EXTINF:-1,197-新疆卫视高清
+#EXTINF:-1 group-title="高清" ,197-新疆卫视高清
 http://10.0.0.1:9000/rtp/239.11.0.197:1025
-#EXTINF:-1,198-兵团卫视高清
+#EXTINF:-1 group-title="高清" ,198-兵团卫视高清
 http://10.0.0.1:9000/rtp/239.11.0.198:1025
-#EXTINF:-1,199-宁夏卫视高清
+#EXTINF:-1 group-title="高清" ,199-宁夏卫视高清
 http://10.0.0.1:9000/rtp/239.11.0.199:1025
-#EXTINF:-1,200-无
+#EXTINF:-1 group-title="无" ,200-无
 http://10.0.0.1:9000/rtp/239.11.0.200:1025
-#EXTINF:-1,201-无
+#EXTINF:-1 group-title="无" ,201-无
 http://10.0.0.1:9000/rtp/239.11.0.201:1025
-#EXTINF:-1,202-无
+#EXTINF:-1 group-title="无" ,202-无
 http://10.0.0.1:9000/rtp/239.11.0.202:1025
-#EXTINF:-1,203-无
+#EXTINF:-1 group-title="无" ,203-无
 http://10.0.0.1:9000/rtp/239.11.0.203:1025
-#EXTINF:-1,204-无
+#EXTINF:-1 group-title="无" ,204-无
 http://10.0.0.1:9000/rtp/239.11.0.204:1025
-#EXTINF:-1,205-无
+#EXTINF:-1 group-title="无" ,205-无
 http://10.0.0.1:9000/rtp/239.11.0.205:1025
-#EXTINF:-1,206-无
+#EXTINF:-1 group-title="无" ,206-无
 http://10.0.0.1:9000/rtp/239.11.0.206:1025
-#EXTINF:-1,207-无
+#EXTINF:-1 group-title="无" ,207-无
 http://10.0.0.1:9000/rtp/239.11.0.207:1025
-#EXTINF:-1,208-无
+#EXTINF:-1 group-title="无" ,208-无
 http://10.0.0.1:9000/rtp/239.11.0.208:1025
-#EXTINF:-1,209-无
+#EXTINF:-1 group-title="无" ,209-无
 http://10.0.0.1:9000/rtp/239.11.0.209:1025
-#EXTINF:-1,210-无
+#EXTINF:-1 group-title="无" ,210-无
 http://10.0.0.1:9000/rtp/239.11.0.210:1025
-#EXTINF:-1,211-无
+#EXTINF:-1 group-title="无" ,211-无
 http://10.0.0.1:9000/rtp/239.11.0.211:1025
-#EXTINF:-1,212-无
+#EXTINF:-1 group-title="无" ,212-无
 http://10.0.0.1:9000/rtp/239.11.0.212:1025
-#EXTINF:-1,213-无
+#EXTINF:-1 group-title="无" ,213-无
 http://10.0.0.1:9000/rtp/239.11.0.213:1025
-#EXTINF:-1,214-无
+#EXTINF:-1 group-title="无" ,214-无
 http://10.0.0.1:9000/rtp/239.11.0.214:1025
-#EXTINF:-1,215-无
+#EXTINF:-1 group-title="无" ,215-无
 http://10.0.0.1:9000/rtp/239.11.0.215:1025
-#EXTINF:-1,216-无
+#EXTINF:-1 group-title="无" ,216-无
 http://10.0.0.1:9000/rtp/239.11.0.216:1025
-#EXTINF:-1,217-无
+#EXTINF:-1 group-title="无" ,217-无
 http://10.0.0.1:9000/rtp/239.11.0.217:1025
-#EXTINF:-1,218-无
+#EXTINF:-1 group-title="无" ,218-无
 http://10.0.0.1:9000/rtp/239.11.0.218:1025
-#EXTINF:-1,219-无
+#EXTINF:-1 group-title="无" ,219-无
 http://10.0.0.1:9000/rtp/239.11.0.219:1025
-#EXTINF:-1,220-无
+#EXTINF:-1 group-title="无" ,220-无
 http://10.0.0.1:9000/rtp/239.11.0.220:1025
-#EXTINF:-1,221-无
+#EXTINF:-1 group-title="无" ,221-无
 http://10.0.0.1:9000/rtp/239.11.0.221:1025
-#EXTINF:-1,222-无
+#EXTINF:-1 group-title="无" ,222-无
 http://10.0.0.1:9000/rtp/239.11.0.222:1025
-#EXTINF:-1,223-无
+#EXTINF:-1 group-title="无" ,223-无
 http://10.0.0.1:9000/rtp/239.11.0.223:1025
-#EXTINF:-1,224-无
+#EXTINF:-1 group-title="无" ,224-无
 http://10.0.0.1:9000/rtp/239.11.0.224:1025
-#EXTINF:-1,225-无
+#EXTINF:-1 group-title="无" ,225-无
 http://10.0.0.1:9000/rtp/239.11.0.225:1025
-#EXTINF:-1,226-无
+#EXTINF:-1 group-title="无" ,226-无
 http://10.0.0.1:9000/rtp/239.11.0.226:1025
-#EXTINF:-1,227-无
+#EXTINF:-1 group-title="无" ,227-无
 http://10.0.0.1:9000/rtp/239.11.0.227:1025
-#EXTINF:-1,228-无
+#EXTINF:-1 group-title="无" ,228-无
 http://10.0.0.1:9000/rtp/239.11.0.228:1025
-#EXTINF:-1,229-无
+#EXTINF:-1 group-title="无" ,229-无
 http://10.0.0.1:9000/rtp/239.11.0.229:1025
-#EXTINF:-1,230-无
+#EXTINF:-1 group-title="无" ,230-无
 http://10.0.0.1:9000/rtp/239.11.0.230:1025
-#EXTINF:-1,231-无
+#EXTINF:-1 group-title="无" ,231-无
 http://10.0.0.1:9000/rtp/239.11.0.231:1025
-#EXTINF:-1,232-无
+#EXTINF:-1 group-title="无" ,232-无
 http://10.0.0.1:9000/rtp/239.11.0.232:1025
-#EXTINF:-1,233-无
+#EXTINF:-1 group-title="无" ,233-无
 http://10.0.0.1:9000/rtp/239.11.0.233:1025
-#EXTINF:-1,234-无
+#EXTINF:-1 group-title="无" ,234-无
 http://10.0.0.1:9000/rtp/239.11.0.234:1025
-#EXTINF:-1,235-无
+#EXTINF:-1 group-title="无" ,235-无
 http://10.0.0.1:9000/rtp/239.11.0.235:1025
-#EXTINF:-1,236-无
+#EXTINF:-1 group-title="无" ,236-无
 http://10.0.0.1:9000/rtp/239.11.0.236:1025
-#EXTINF:-1,237-无
+#EXTINF:-1 group-title="无" ,237-无
 http://10.0.0.1:9000/rtp/239.11.0.237:1025
-#EXTINF:-1,238-无
+#EXTINF:-1 group-title="无" ,238-无
 http://10.0.0.1:9000/rtp/239.11.0.238:1025
-#EXTINF:-1,239-无
+#EXTINF:-1 group-title="无" ,239-无
 http://10.0.0.1:9000/rtp/239.11.0.239:1025
-#EXTINF:-1,240-无
+#EXTINF:-1 group-title="无" ,240-无
 http://10.0.0.1:9000/rtp/239.11.0.240:1025
-#EXTINF:-1,241-无
+#EXTINF:-1 group-title="无" ,241-无
 http://10.0.0.1:9000/rtp/239.11.0.241:1025
-#EXTINF:-1,242-无
+#EXTINF:-1 group-title="无" ,242-无
 http://10.0.0.1:9000/rtp/239.11.0.242:1025
-#EXTINF:-1,243-无
+#EXTINF:-1 group-title="无" ,243-无
 http://10.0.0.1:9000/rtp/239.11.0.243:1025
-#EXTINF:-1,244-无
+#EXTINF:-1 group-title="无" ,244-无
 http://10.0.0.1:9000/rtp/239.11.0.244:1025
-#EXTINF:-1,245-无
+#EXTINF:-1 group-title="无" ,245-无
 http://10.0.0.1:9000/rtp/239.11.0.245:1025
-#EXTINF:-1,246-无
+#EXTINF:-1 group-title="无" ,246-无
 http://10.0.0.1:9000/rtp/239.11.0.246:1025
-#EXTINF:-1,247-无
+#EXTINF:-1 group-title="无" ,247-无
 http://10.0.0.1:9000/rtp/239.11.0.247:1025
-#EXTINF:-1,248-无
+#EXTINF:-1 group-title="无" ,248-无
 http://10.0.0.1:9000/rtp/239.11.0.248:1025
-#EXTINF:-1,249-无
+#EXTINF:-1 group-title="无" ,249-无
 http://10.0.0.1:9000/rtp/239.11.0.249:1025
-#EXTINF:-1,250-无
+#EXTINF:-1 group-title="无" ,250-无
 http://10.0.0.1:9000/rtp/239.11.0.250:1025
-#EXTINF:-1,251-无
+#EXTINF:-1 group-title="无" ,251-无
 http://10.0.0.1:9000/rtp/239.11.0.251:1025
-#EXTINF:-1,252-无
+#EXTINF:-1 group-title="无" ,252-无
 http://10.0.0.1:9000/rtp/239.11.0.252:1025
-#EXTINF:-1,253-无
+#EXTINF:-1 group-title="无" ,253-无
 http://10.0.0.1:9000/rtp/239.11.0.253:1025
-#EXTINF:-1,254-无
+#EXTINF:-1 group-title="无" ,254-无
 http://10.0.0.1:9000/rtp/239.11.0.254:1025
-#EXTINF:-1,255-无
+#EXTINF:-1 group-title="无" ,255-无
 http://10.0.0.1:9000/rtp/239.11.0.255:1025
-#EXTINF:-1,256-无
+#EXTINF:-1 group-title="无" ,256-无
 http://10.0.0.1:9000/rtp/239.10.0.1:1025
-#EXTINF:-1,257-无
+#EXTINF:-1 group-title="无" ,257-无
 http://10.0.0.1:9000/rtp/239.10.0.2:1025
-#EXTINF:-1,258-无
+#EXTINF:-1 group-title="无" ,258-无
 http://10.0.0.1:9000/rtp/239.10.0.3:1025
-#EXTINF:-1,259-无
+#EXTINF:-1 group-title="无" ,259-无
 http://10.0.0.1:9000/rtp/239.10.0.4:1025
-#EXTINF:-1,260-无
+#EXTINF:-1 group-title="无" ,260-无
 http://10.0.0.1:9000/rtp/239.10.0.5:1025
-#EXTINF:-1,261-无
+#EXTINF:-1 group-title="无" ,261-无
 http://10.0.0.1:9000/rtp/239.10.0.6:1025
-#EXTINF:-1,262-无
+#EXTINF:-1 group-title="无" ,262-无
 http://10.0.0.1:9000/rtp/239.10.0.7:1025
-#EXTINF:-1,263-华数谍战剧场
+#EXTINF:-1 group-title="华数" ,263-华数谍战剧场
 http://10.0.0.1:9000/rtp/239.10.0.8:1025
-#EXTINF:-1,264-华数相声小品
+#EXTINF:-1 group-title="华数" ,264-华数相声小品
 http://10.0.0.1:9000/rtp/239.10.0.9:1025
-#EXTINF:-1,265-华数野外
+#EXTINF:-1 group-title="华数" ,265-华数野外
 http://10.0.0.1:9000/rtp/239.10.0.10:1025
-#EXTINF:-1,266-华数法治
+#EXTINF:-1 group-title="华数" ,266-华数法治
 http://10.0.0.1:9000/rtp/239.10.0.11:1025
-#EXTINF:-1,267-华数CCTV6
+#EXTINF:-1 group-title="华数" ,267-华数CCTV6
 http://10.0.0.1:9000/rtp/239.10.0.12:1025
-#EXTINF:-1,268-华数经典电影
+#EXTINF:-1 group-title="华数" ,268-华数经典电影
 http://10.0.0.1:9000/rtp/239.10.0.13:1025
-#EXTINF:-1,269-华数CCTV8
+#EXTINF:-1 group-title="华数" ,269-华数CCTV8
 http://10.0.0.1:9000/rtp/239.10.0.14:1025
-#EXTINF:-1,270-华数热播剧场
+#EXTINF:-1 group-title="华数" ,270-华数热播剧场
 http://10.0.0.1:9000/rtp/239.10.0.15:1025
-#EXTINF:-1,271-华数CCTV3综艺
+#EXTINF:-1 group-title="华数" ,271-华数CCTV3综艺
 http://10.0.0.1:9000/rtp/239.10.0.16:1025
-#EXTINF:-1,272-华数CCTV5体育
+#EXTINF:-1 group-title="华数" ,272-华数CCTV5体育
 http://10.0.0.1:9000/rtp/239.10.0.17:1025
-#EXTINF:-1,273-华数少儿动画
+#EXTINF:-1 group-title="华数" ,273-华数少儿动画
 http://10.0.0.1:9000/rtp/239.10.0.18:1025
-#EXTINF:-1,274-华数魅力时尚
+#EXTINF:-1 group-title="华数" ,274-华数魅力时尚
 http://10.0.0.1:9000/rtp/239.10.0.19:1025
-#EXTINF:-1,275-华数CCTV3综艺
+#EXTINF:-1 group-title="华数" ,275-华数CCTV3综艺
 http://10.0.0.1:9000/rtp/239.10.0.20:1025
-#EXTINF:-1,276-粤TV
+#EXTINF:-1 group-title="粤TV" ,276-粤TV
 http://10.0.0.1:9000/rtp/239.10.0.21:1025
-#EXTINF:-1,277-无
+#EXTINF:-1 group-title="无" ,277-无
 http://10.0.0.1:9000/rtp/239.10.0.22:1025
-#EXTINF:-1,278-无
+#EXTINF:-1 group-title="无" ,278-无
 http://10.0.0.1:9000/rtp/239.10.0.23:1025
-#EXTINF:-1,279-无粤TV
+#EXTINF:-1 group-title="无" ,279-无
 http://10.0.0.1:9000/rtp/239.10.0.24:1025
-#EXTINF:-1,280-无粤TV
+#EXTINF:-1 group-title="无" ,280-无
 http://10.0.0.1:9000/rtp/239.10.0.25:1025
-#EXTINF:-1,281-无
+#EXTINF:-1 group-title="无" ,281-无
 http://10.0.0.1:9000/rtp/239.10.0.26:1025
-#EXTINF:-1,282-无粤TV
+#EXTINF:-1 group-title="无" ,282-无
 http://10.0.0.1:9000/rtp/239.10.0.27:1025
-#EXTINF:-1,283-无粤TV
+#EXTINF:-1 group-title="无" ,283-无
 http://10.0.0.1:9000/rtp/239.10.0.28:1025
-#EXTINF:-1,284-无
+#EXTINF:-1 group-title="无" ,284-无
 http://10.0.0.1:9000/rtp/239.10.0.29:1025
-#EXTINF:-1,285-无
+#EXTINF:-1 group-title="无" ,285-无
 http://10.0.0.1:9000/rtp/239.10.0.30:1025
-#EXTINF:-1,286-无
+#EXTINF:-1 group-title="无" ,286-无
 http://10.0.0.1:9000/rtp/239.10.0.31:1025
-#EXTINF:-1,287-无
+#EXTINF:-1 group-title="无" ,287-无
 http://10.0.0.1:9000/rtp/239.10.0.32:1025
-#EXTINF:-1,288-标清中央新影老故事
+#EXTINF:-1 group-title="标清" ,288-标清中央新影老故事
 http://10.0.0.1:9000/rtp/239.10.0.33:1025
-#EXTINF:-1,289-无
+#EXTINF:-1 group-title="无" ,289-无
 http://10.0.0.1:9000/rtp/239.10.0.34:1025
-#EXTINF:-1,290-无
+#EXTINF:-1 group-title="无" ,290-无
 http://10.0.0.1:9000/rtp/239.10.0.35:1025
-#EXTINF:-1,291-标清环球奇观
+#EXTINF:-1 group-title="标清" ,291-标清环球奇观
 http://10.0.0.1:9000/rtp/239.10.0.36:1025
-#EXTINF:-1,292-无粤TV
+#EXTINF:-1 group-title="无" ,292-无
 http://10.0.0.1:9000/rtp/239.10.0.37:1025
-#EXTINF:-1,293-标清国学频道
+#EXTINF:-1 group-title="标清" ,293-标清国学频道
 http://10.0.0.1:9000/rtp/239.10.0.38:1025
-#EXTINF:-1,294-无
+#EXTINF:-1 group-title="无" ,294-无
 http://10.0.0.1:9000/rtp/239.10.0.39:1025
-#EXTINF:-1,295-无
+#EXTINF:-1 group-title="无" ,295-无
 http://10.0.0.1:9000/rtp/239.10.0.40:1025
-#EXTINF:-1,296-无
+#EXTINF:-1 group-title="无" ,296-无
 http://10.0.0.1:9000/rtp/239.10.0.41:1025
-#EXTINF:-1,297-4K北京卫视25FPS
+#EXTINF:-1 group-title="4K" ,297-4K北京卫视25FPS
 http://10.0.0.1:9000/rtp/239.10.0.42:1025
-#EXTINF:-1,298-无
+#EXTINF:-1 group-title="无" ,298-无
 http://10.0.0.1:9000/rtp/239.10.0.43:1025
-#EXTINF:-1,299-无粤TV
+#EXTINF:-1 group-title="无" ,299-无
 http://10.0.0.1:9000/rtp/239.10.0.44:1025
-#EXTINF:-1,300-超清广东卫视
+#EXTINF:-1 group-title="超清" ,300-超清广东卫视
 http://10.0.0.1:9000/rtp/239.10.0.45:1025
-#EXTINF:-1,301-超清经济科教
+#EXTINF:-1 group-title="超清" ,301-超清经济科教
 http://10.0.0.1:9000/rtp/239.10.0.46:1025
-#EXTINF:-1,302-超清广东体育
+#EXTINF:-1 group-title="超清" ,302-超清广东体育
 http://10.0.0.1:9000/rtp/239.10.0.47:1025
-#EXTINF:-1,303-高清CCTV1综合
+#EXTINF:-1 group-title="高清" ,303-高清CCTV1综合
 http://10.0.0.1:9000/rtp/239.10.0.48:1025
-#EXTINF:-1,304-无
+#EXTINF:-1 group-title="无" ,304-无
 http://10.0.0.1:9000/rtp/239.10.0.49:1025
-#EXTINF:-1,305-无
+#EXTINF:-1 group-title="无" ,305-无
 http://10.0.0.1:9000/rtp/239.10.0.50:1025
-#EXTINF:-1,306-无
+#EXTINF:-1 group-title="无" ,306-无
 http://10.0.0.1:9000/rtp/239.10.0.51:1025
-#EXTINF:-1,307-超清深圳卫视
+#EXTINF:-1 group-title="超清" ,307-超清深圳卫视
 http://10.0.0.1:9000/rtp/239.10.0.52:1025
-#EXTINF:-1,308-超清黑龙江卫视
+#EXTINF:-1 group-title="超清" ,308-超清黑龙江卫视
 http://10.0.0.1:9000/rtp/239.10.0.53:1025
-#EXTINF:-1,309-超清湖北卫视
+#EXTINF:-1 group-title="超清" ,309-超清湖北卫视
 http://10.0.0.1:9000/rtp/239.10.0.54:1025
-#EXTINF:-1,310-超清天津卫视
+#EXTINF:-1 group-title="超清" ,310-超清天津卫视
 http://10.0.0.1:9000/rtp/239.10.0.55:1025
-#EXTINF:-1,311-无
+#EXTINF:-1 group-title="无" ,311-无
 http://10.0.0.1:9000/rtp/239.10.0.56:1025
-#EXTINF:-1,312-无
+#EXTINF:-1 group-title="无" ,312-无
 http://10.0.0.1:9000/rtp/239.10.0.57:1025
-#EXTINF:-1,313-无
+#EXTINF:-1 group-title="无" ,313-无
 http://10.0.0.1:9000/rtp/239.10.0.58:1025
-#EXTINF:-1,314-无
+#EXTINF:-1 group-title="无" ,314-无
 http://10.0.0.1:9000/rtp/239.10.0.59:1025
-#EXTINF:-1,315-无
+#EXTINF:-1 group-title="无" ,315-无
 http://10.0.0.1:9000/rtp/239.10.0.60:1025
-#EXTINF:-1,316-无粤TV
+#EXTINF:-1 group-title="无" ,316-无
 http://10.0.0.1:9000/rtp/239.10.0.61:1025
-#EXTINF:-1,317-高清广东珠江
+#EXTINF:-1 group-title="高清" ,317-高清广东珠江
 http://10.0.0.1:9000/rtp/239.10.0.62:1025
-#EXTINF:-1,318-超清广东珠江
+#EXTINF:-1 group-title="超清" ,318-超清广东珠江
 http://10.0.0.1:9000/rtp/239.10.0.63:1025
-#EXTINF:-1,319-无粤TV
+#EXTINF:-1 group-title="无" ,319-无
 http://10.0.0.1:9000/rtp/239.10.0.64:1025
-#EXTINF:-1,320-无粤TV
+#EXTINF:-1 group-title="无" ,320-无
 http://10.0.0.1:9000/rtp/239.10.0.65:1025
-#EXTINF:-1,321-无
+#EXTINF:-1 group-title="无" ,321-无
 http://10.0.0.1:9000/rtp/239.10.0.66:1025
-#EXTINF:-1,322-无
+#EXTINF:-1 group-title="无" ,322-无
 http://10.0.0.1:9000/rtp/239.10.0.67:1025
 #EXTINF:-1 group-title="咪咕" ,323-咪咕4K
 http://10.0.0.1:9000/rtp/239.10.0.68:1025
-#EXTINF:-1,324-粤TV
+#EXTINF:-1 group-title="粤TV" ,324-粤TV
 http://10.0.0.1:9000/rtp/239.10.0.69:1025
-#EXTINF:-1,325-无
+#EXTINF:-1 group-title="无" ,325-无
 http://10.0.0.1:9000/rtp/239.10.0.70:1025
-#EXTINF:-1,326-无
+#EXTINF:-1 group-title="无" ,326-无
 http://10.0.0.1:9000/rtp/239.10.0.71:1025
-#EXTINF:-1,327-无
+#EXTINF:-1 group-title="无" ,327-无
 http://10.0.0.1:9000/rtp/239.10.0.72:1025
-#EXTINF:-1,328-无粤TV
+#EXTINF:-1 group-title="无" ,328-无
 http://10.0.0.1:9000/rtp/239.10.0.73:1025
-#EXTINF:-1,329-无4K广东超高清
+#EXTINF:-1 group-title="无" ,329-无4K广东超高清
 http://10.0.0.1:9000/rtp/239.10.0.74:1025
-#EXTINF:-1,330-4K广东超高清
+#EXTINF:-1 group-title="4K" ,330-4K广东超高清
 http://10.0.0.1:9000/rtp/239.10.0.75:1025
-#EXTINF:-1,331-无
+#EXTINF:-1 group-title="无" ,331-无
 http://10.0.0.1:9000/rtp/239.10.0.76:1025
-#EXTINF:-1,332-高清东南卫视
+#EXTINF:-1 group-title="高清" ,332-高清东南卫视
 http://10.0.0.1:9000/rtp/239.10.0.77:1025
-#EXTINF:-1,333-无粤TV
+#EXTINF:-1 group-title="无" ,333-无
 http://10.0.0.1:9000/rtp/239.10.0.78:1025
-#EXTINF:-1,334-高清河北卫视
+#EXTINF:-1 group-title="高清" ,334-高清河北卫视
 http://10.0.0.1:9000/rtp/239.10.0.79:1025
-#EXTINF:-1,335-高清江西卫视
+#EXTINF:-1 group-title="高清" ,335-高清江西卫视
 http://10.0.0.1:9000/rtp/239.10.0.80:1025
-#EXTINF:-1,336-高清吉林卫视
+#EXTINF:-1 group-title="高清" ,336-高清吉林卫视
 http://10.0.0.1:9000/rtp/239.10.0.81:1025
-#EXTINF:-1,337-无粤TV
+#EXTINF:-1 group-title="无" ,337-无
 http://10.0.0.1:9000/rtp/239.10.0.82:1025
-#EXTINF:-1,338-标清三沙卫视
+#EXTINF:-1 group-title="标清" ,338-标清三沙卫视
 http://10.0.0.1:9000/rtp/239.10.0.83:1025
-#EXTINF:-1,339-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,339-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.84:1025
-#EXTINF:-1,340-无
+#EXTINF:-1 group-title="无" ,340-无
 http://10.0.0.1:9000/rtp/239.10.0.85:1025
-#EXTINF:-1,341-4K北京卫视50FPS
+#EXTINF:-1 group-title="4K" ,341-4K北京卫视50FPS
 http://10.0.0.1:9000/rtp/239.10.0.86:1025
 #EXTINF:-1 group-title="咪咕" ,342-咪咕
 http://10.0.0.1:9000/rtp/239.10.0.87:1025
@@ -687,319 +687,319 @@ http://10.0.0.1:9000/rtp/239.10.0.87:1025
 http://10.0.0.1:9000/rtp/239.10.0.88:1025
 #EXTINF:-1 group-title="咪咕" ,344-咪咕
 http://10.0.0.1:9000/rtp/239.10.0.89:1025
-#EXTINF:-1,345-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,345-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.90:1025
-#EXTINF:-1,346-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,346-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.91:1025
-#EXTINF:-1,347-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,347-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.92:1025
-#EXTINF:-1,348-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,348-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.93:1025
-#EXTINF:-1,349-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,349-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.94:1025
-#EXTINF:-1,350-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,350-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.95:1025
-#EXTINF:-1,351-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,351-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.96:1025
-#EXTINF:-1,352-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,352-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.97:1025
-#EXTINF:-1,353-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,353-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.98:1025
-#EXTINF:-1,354-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,354-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.99:1025
-#EXTINF:-1,355-IPTV影视推荐
+#EXTINF:-1 group-title="IPTV影视推荐" ,355-IPTV影视推荐
 http://10.0.0.1:9000/rtp/239.10.0.100:1025
-#EXTINF:-1,356-高清CCTV3综艺
+#EXTINF:-1 group-title="高清" ,356-高清CCTV3综艺
 http://10.0.0.1:9000/rtp/239.10.0.101:1025
-#EXTINF:-1,357-高清CCTV5体育
+#EXTINF:-1 group-title="高清" ,357-高清CCTV5体育
 http://10.0.0.1:9000/rtp/239.10.0.102:1025
-#EXTINF:-1,358-高清CCTV6电影
+#EXTINF:-1 group-title="高清" ,358-高清CCTV6电影
 http://10.0.0.1:9000/rtp/239.10.0.103:1025
-#EXTINF:-1,359-高清CCTV8电视剧
+#EXTINF:-1 group-title="高清" ,359-高清CCTV8电视剧
 http://10.0.0.1:9000/rtp/239.10.0.104:1025
-#EXTINF:-1,360-无
+#EXTINF:-1 group-title="无" ,360-无
 http://10.0.0.1:9000/rtp/239.10.0.105:1025
-#EXTINF:-1,361-无
+#EXTINF:-1 group-title="无" ,361-无
 http://10.0.0.1:9000/rtp/239.10.0.106:1025
-#EXTINF:-1,362-标清CCTV3综艺
+#EXTINF:-1 group-title="标清" ,362-标清CCTV3综艺
 http://10.0.0.1:9000/rtp/239.10.0.107:1025
-#EXTINF:-1,363-标清CCTV5体育
+#EXTINF:-1 group-title="标清" ,363-标清CCTV5体育
 http://10.0.0.1:9000/rtp/239.10.0.108:1025
-#EXTINF:-1,364-标清CCTV6电影
+#EXTINF:-1 group-title="标清" ,364-标清CCTV6电影
 http://10.0.0.1:9000/rtp/239.10.0.109:1025
-#EXTINF:-1,365-标清CCTV8电视剧
+#EXTINF:-1 group-title="标清" ,365-标清CCTV8电视剧
 http://10.0.0.1:9000/rtp/239.10.0.110:1025
-#EXTINF:-1,366-高清广东卫视
+#EXTINF:-1 group-title="高清" ,366-高清广东卫视
 http://10.0.0.1:9000/rtp/239.10.0.111:1025
-#EXTINF:-1,367-高清经济科教
+#EXTINF:-1 group-title="高清" ,367-高清经济科教
 http://10.0.0.1:9000/rtp/239.10.0.112:1025
-#EXTINF:-1,368-高清广东体育
+#EXTINF:-1 group-title="高清" ,368-高清广东体育
 http://10.0.0.1:9000/rtp/239.10.0.113:1025
-#EXTINF:-1,369-高清CCTV1综合
+#EXTINF:-1 group-title="高清" ,369-高清CCTV1综合
 http://10.0.0.1:9000/rtp/239.10.0.114:1025
-#EXTINF:-1,370-高清湖南卫视
+#EXTINF:-1 group-title="高清" ,370-高清湖南卫视
 http://10.0.0.1:9000/rtp/239.10.0.115:1025
-#EXTINF:-1,371-标清浙江卫视
+#EXTINF:-1 group-title="标清" ,371-标清浙江卫视
 http://10.0.0.1:9000/rtp/239.10.0.116:1025
-#EXTINF:-1,372-标清江苏卫视
+#EXTINF:-1 group-title="标清" ,372-标清江苏卫视
 http://10.0.0.1:9000/rtp/239.10.0.117:1025
-#EXTINF:-1,373-标清东方卫视
+#EXTINF:-1 group-title="标清" ,373-标清东方卫视
 http://10.0.0.1:9000/rtp/239.10.0.118:1025
-#EXTINF:-1,374-无
+#EXTINF:-1 group-title="无" ,374-无
 http://10.0.0.1:9000/rtp/239.10.0.119:1025
-#EXTINF:-1,375-无
+#EXTINF:-1 group-title="无" ,375-无
 http://10.0.0.1:9000/rtp/239.10.0.120:1025
-#EXTINF:-1,376-标清广东珠江
+#EXTINF:-1 group-title="标清" ,376-标清广东珠江
 http://10.0.0.1:9000/rtp/239.10.0.121:1025
-#EXTINF:-1,377-标清广东新闻
+#EXTINF:-1 group-title="标清" ,377-标清广东新闻
 http://10.0.0.1:9000/rtp/239.10.0.122:1025
-#EXTINF:-1,378-标清广东民生
+#EXTINF:-1 group-title="标清" ,378-标清广东民生
 http://10.0.0.1:9000/rtp/239.10.0.123:1025
-#EXTINF:-1,379-标清广东体育
+#EXTINF:-1 group-title="标清" ,379-标清广东体育
 http://10.0.0.1:9000/rtp/239.10.0.124:1025
-#EXTINF:-1,380-标清岭南戏曲
+#EXTINF:-1 group-title="标清" ,380-标清岭南戏曲
 http://10.0.0.1:9000/rtp/239.10.0.125:1025
-#EXTINF:-1,381-高清南方购物
+#EXTINF:-1 group-title="高清" ,381-高清南方购物
 http://10.0.0.1:9000/rtp/239.10.0.126:1025
-#EXTINF:-1,382-标清广东影视
+#EXTINF:-1 group-title="标清" ,382-标清广东影视
 http://10.0.0.1:9000/rtp/239.10.0.127:1025
-#EXTINF:-1,383-标清广东少儿
+#EXTINF:-1 group-title="标清" ,383-标清广东少儿
 http://10.0.0.1:9000/rtp/239.10.0.128:1025
-#EXTINF:-1,384-标清嘉佳卡通
+#EXTINF:-1 group-title="标清" ,384-标清嘉佳卡通
 http://10.0.0.1:9000/rtp/239.10.0.129:1025
-#EXTINF:-1,385-无
+#EXTINF:-1 group-title="无" ,385-无
 http://10.0.0.1:9000/rtp/239.10.0.130:1025
-#EXTINF:-1,386-高清北京卫视
+#EXTINF:-1 group-title="高清" ,386-高清北京卫视
 http://10.0.0.1:9000/rtp/239.10.0.131:1025
-#EXTINF:-1,387-高清深圳卫视
+#EXTINF:-1 group-title="高清" ,387-高清深圳卫视
 http://10.0.0.1:9000/rtp/239.10.0.132:1025
-#EXTINF:-1,388-高清黑龙江卫视
+#EXTINF:-1 group-title="高清" ,388-高清黑龙江卫视
 http://10.0.0.1:9000/rtp/239.10.0.133:1025
-#EXTINF:-1,389-高清湖北卫视
+#EXTINF:-1 group-title="高清" ,389-高清湖北卫视
 http://10.0.0.1:9000/rtp/239.10.0.134:1025
-#EXTINF:-1,390-标清大湾区卫视
+#EXTINF:-1 group-title="标清" ,390-标清大湾区卫视
 http://10.0.0.1:9000/rtp/239.10.0.135:1025
-#EXTINF:-1,391-无粤TV
+#EXTINF:-1 group-title="无" ,391-无
 http://10.0.0.1:9000/rtp/239.10.0.136:1025
-#EXTINF:-1,392-无粤TV
+#EXTINF:-1 group-title="无" ,392-无
 http://10.0.0.1:9000/rtp/239.10.0.137:1025
-#EXTINF:-1,393-标清现代教育
+#EXTINF:-1 group-title="标清" ,393-标清现代教育
 http://10.0.0.1:9000/rtp/239.10.0.138:1025
-#EXTINF:-1,394-高清江门侨乡生活
+#EXTINF:-1 group-title="高清" ,394-高清江门侨乡生活
 http://10.0.0.1:9000/rtp/239.10.0.139:1025
-#EXTINF:-1,395-标清延边卫视
+#EXTINF:-1 group-title="标清" ,395-标清延边卫视
 http://10.0.0.1:9000/rtp/239.10.0.140:1025
-#EXTINF:-1,396-标清广东卫视
+#EXTINF:-1 group-title="标清" ,396-标清广东卫视
 http://10.0.0.1:9000/rtp/239.10.0.141:1025
-#EXTINF:-1,397-无
+#EXTINF:-1 group-title="无" ,397-无
 http://10.0.0.1:9000/rtp/239.10.0.142:1025
-#EXTINF:-1,398-标清广东移动
+#EXTINF:-1 group-title="标清" ,398-标清广东移动
 http://10.0.0.1:9000/rtp/239.10.0.143:1025
-#EXTINF:-1,399-标清深圳卫视
+#EXTINF:-1 group-title="标清" ,399-标清深圳卫视
 http://10.0.0.1:9000/rtp/239.10.0.144:1025
-#EXTINF:-1,400-标清湖南卫视
+#EXTINF:-1 group-title="标清" ,400-标清湖南卫视
 http://10.0.0.1:9000/rtp/239.10.0.145:1025
-#EXTINF:-1,401-标清安徽卫视
+#EXTINF:-1 group-title="标清" ,401-标清安徽卫视
 http://10.0.0.1:9000/rtp/239.10.0.146:1025
-#EXTINF:-1,402-标清北京卫视
+#EXTINF:-1 group-title="标清" ,402-标清北京卫视
 http://10.0.0.1:9000/rtp/239.10.0.147:1025
-#EXTINF:-1,403-标清江西卫视
+#EXTINF:-1 group-title="标清" ,403-标清江西卫视
 http://10.0.0.1:9000/rtp/239.10.0.148:1025
-#EXTINF:-1,404-无
+#EXTINF:-1 group-title="无" ,404-无
 http://10.0.0.1:9000/rtp/239.10.0.149:1025
-#EXTINF:-1,405-无
+#EXTINF:-1 group-title="无" ,405-无
 http://10.0.0.1:9000/rtp/239.10.0.150:1025
-#EXTINF:-1,406-无
+#EXTINF:-1 group-title="无" ,406-无
 http://10.0.0.1:9000/rtp/239.10.0.151:1025
-#EXTINF:-1,407-无
+#EXTINF:-1 group-title="无" ,407-无
 http://10.0.0.1:9000/rtp/239.10.0.152:1025
-#EXTINF:-1,408-无
+#EXTINF:-1 group-title="无" ,408-无
 http://10.0.0.1:9000/rtp/239.10.0.153:1025
-#EXTINF:-1,409-标清河南卫视
+#EXTINF:-1 group-title="标清" ,409-标清河南卫视
 http://10.0.0.1:9000/rtp/239.10.0.154:1025
-#EXTINF:-1,410-标清云南卫视
+#EXTINF:-1 group-title="标清" ,410-标清云南卫视
 http://10.0.0.1:9000/rtp/239.10.0.155:1025
-#EXTINF:-1,411-无
+#EXTINF:-1 group-title="无" ,411-无
 http://10.0.0.1:9000/rtp/239.10.0.156:1025
-#EXTINF:-1,412-无
+#EXTINF:-1 group-title="无" ,412-无
 http://10.0.0.1:9000/rtp/239.10.0.157:1025
-#EXTINF:-1,413-无
+#EXTINF:-1 group-title="无" ,413-无
 http://10.0.0.1:9000/rtp/239.10.0.158:1025
-#EXTINF:-1,414-无
+#EXTINF:-1 group-title="无" ,414-无
 http://10.0.0.1:9000/rtp/239.10.0.159:1025
-#EXTINF:-1,415-无
+#EXTINF:-1 group-title="无" ,415-无
 http://10.0.0.1:9000/rtp/239.10.0.160:1025
-#EXTINF:-1,416-标清陕西卫视
+#EXTINF:-1 group-title="标清" ,416-标清陕西卫视
 http://10.0.0.1:9000/rtp/239.10.0.161:1025
-#EXTINF:-1,417-标清山西卫视
+#EXTINF:-1 group-title="标清" ,417-标清山西卫视
 http://10.0.0.1:9000/rtp/239.10.0.162:1025
-#EXTINF:-1,418-标清内蒙古卫视
+#EXTINF:-1 group-title="标清" ,418-标清内蒙古卫视
 http://10.0.0.1:9000/rtp/239.10.0.163:1025
-#EXTINF:-1,419-标清青海卫视
+#EXTINF:-1 group-title="标清" ,419-标清青海卫视
 http://10.0.0.1:9000/rtp/239.10.0.164:1025
-#EXTINF:-1,420-标清海南卫视
+#EXTINF:-1 group-title="标清" ,420-标清海南卫视
 http://10.0.0.1:9000/rtp/239.10.0.165:1025
-#EXTINF:-1,421-标清宁夏卫视
+#EXTINF:-1 group-title="标清" ,421-标清宁夏卫视
 http://10.0.0.1:9000/rtp/239.10.0.166:1025
-#EXTINF:-1,422-标清西藏卫视
+#EXTINF:-1 group-title="标清" ,422-标清西藏卫视
 http://10.0.0.1:9000/rtp/239.10.0.167:1025
-#EXTINF:-1,423-标清新疆卫视
+#EXTINF:-1 group-title="标清" ,423-标清新疆卫视
 http://10.0.0.1:9000/rtp/239.10.0.168:1025
-#EXTINF:-1,424-标清甘肃卫视
+#EXTINF:-1 group-title="标清" ,424-标清甘肃卫视
 http://10.0.0.1:9000/rtp/239.10.0.169:1025
-#EXTINF:-1,425-标清兵团卫视
+#EXTINF:-1 group-title="标清" ,425-标清兵团卫视
 http://10.0.0.1:9000/rtp/239.10.0.170:1025
-#EXTINF:-1,426-无
+#EXTINF:-1 group-title="无" ,426-无
 http://10.0.0.1:9000/rtp/239.10.0.171:1025
-#EXTINF:-1,427-标清KAKU少儿
+#EXTINF:-1 group-title="标清" ,427-标清KAKU少儿
 http://10.0.0.1:9000/rtp/239.10.0.172:1025
-#EXTINF:-1,428-标清金鹰卡通
+#EXTINF:-1 group-title="标清" ,428-标清金鹰卡通
 http://10.0.0.1:9000/rtp/239.10.0.173:1025
-#EXTINF:-1,429-标清哈哈炫动
+#EXTINF:-1 group-title="标清" ,429-标清哈哈炫动
 http://10.0.0.1:9000/rtp/239.10.0.174:1025
-#EXTINF:-1,430-无
+#EXTINF:-1 group-title="无" ,430-无
 http://10.0.0.1:9000/rtp/239.10.0.175:1025
-#EXTINF:-1,431-标清山东教育卫视
+#EXTINF:-1 group-title="标清" ,431-标清山东教育卫视
 http://10.0.0.1:9000/rtp/239.10.0.176:1025
-#EXTINF:-1,432-标清财富天下
+#EXTINF:-1 group-title="标清" ,432-标清财富天下
 http://10.0.0.1:9000/rtp/239.10.0.177:1025
-#EXTINF:-1,433-标清厦门卫视
+#EXTINF:-1 group-title="标清" ,433-标清厦门卫视
 http://10.0.0.1:9000/rtp/239.10.0.178:1025
-#EXTINF:-1,434-高清浙江卫视
+#EXTINF:-1 group-title="高清" ,434-高清浙江卫视
 http://10.0.0.1:9000/rtp/239.10.0.179:1025
-#EXTINF:-1,435-高清江苏卫视
+#EXTINF:-1 group-title="高清" ,435-高清江苏卫视
 http://10.0.0.1:9000/rtp/239.10.0.180:1025
-#EXTINF:-1,436-高清天津卫视
+#EXTINF:-1 group-title="高清" ,436-高清天津卫视
 http://10.0.0.1:9000/rtp/239.10.0.181:1025
-#EXTINF:-1,437-高清山东卫视
+#EXTINF:-1 group-title="高清" ,437-高清山东卫视
 http://10.0.0.1:9000/rtp/239.10.0.182:1025
-#EXTINF:-1,438-高清东方卫视
+#EXTINF:-1 group-title="高清" ,438-高清东方卫视
 http://10.0.0.1:9000/rtp/239.10.0.183:1025
-#EXTINF:-1,439-无
+#EXTINF:-1 group-title="无" ,439-无
 http://10.0.0.1:9000/rtp/239.10.0.184:1025
-#EXTINF:-1,440-高清辽宁卫视
+#EXTINF:-1 group-title="高清" ,440-高清辽宁卫视
 http://10.0.0.1:9000/rtp/239.10.0.185:1025
-#EXTINF:-1,441-标清CCTV2财经
+#EXTINF:-1 group-title="标清" ,441-标清CCTV2财经
 http://10.0.0.1:9000/rtp/239.10.0.186:1025
-#EXTINF:-1,442-标清CCTV4中文国际
+#EXTINF:-1 group-title="标清" ,442-标清CCTV4中文国际
 http://10.0.0.1:9000/rtp/239.10.0.187:1025
-#EXTINF:-1,443-标清CCTV7国防军事
+#EXTINF:-1 group-title="标清" ,443-标清CCTV7国防军事
 http://10.0.0.1:9000/rtp/239.10.0.188:1025
-#EXTINF:-1,444-标清CCTV9纪录
+#EXTINF:-1 group-title="标清" ,444-标清CCTV9纪录
 http://10.0.0.1:9000/rtp/239.10.0.189:1025
-#EXTINF:-1,445-标清CCTV10科教
+#EXTINF:-1 group-title="标清" ,445-标清CCTV10科教
 http://10.0.0.1:9000/rtp/239.10.0.190:1025
-#EXTINF:-1,446-标清CCTV11戏曲
+#EXTINF:-1 group-title="标清" ,446-标清CCTV11戏曲
 http://10.0.0.1:9000/rtp/239.10.0.191:1025
-#EXTINF:-1,447-标清CCTV12社会与法
+#EXTINF:-1 group-title="标清" ,447-标清CCTV12社会与法
 http://10.0.0.1:9000/rtp/239.10.0.192:1025
-#EXTINF:-1,448-标清CCTV13新闻
+#EXTINF:-1 group-title="标清" ,448-标清CCTV13新闻
 http://10.0.0.1:9000/rtp/239.10.0.193:1025
-#EXTINF:-1,449-标清CCTV14少儿
+#EXTINF:-1 group-title="标清" ,449-标清CCTV14少儿
 http://10.0.0.1:9000/rtp/239.10.0.194:1025
-#EXTINF:-1,450-标清CCTV15音乐
+#EXTINF:-1 group-title="标清" ,450-标清CCTV15音乐
 http://10.0.0.1:9000/rtp/239.10.0.195:1025
-#EXTINF:-1,451-标清CGTN
+#EXTINF:-1 group-title="标清" ,451-标清CGTN
 http://10.0.0.1:9000/rtp/239.10.0.196:1025
-#EXTINF:-1,452-无
+#EXTINF:-1 group-title="无" ,452-无
 http://10.0.0.1:9000/rtp/239.10.0.197:1025
-#EXTINF:-1,453-高清CCTV13新闻
+#EXTINF:-1 group-title="高清" ,453-高清CCTV13新闻
 http://10.0.0.1:9000/rtp/239.10.0.198:1025
-#EXTINF:-1,454-高清广东新闻
+#EXTINF:-1 group-title="高清" ,454-高清广东新闻
 http://10.0.0.1:9000/rtp/239.10.0.199:1025
-#EXTINF:-1,455-高清嘉佳卡通
+#EXTINF:-1 group-title="高清" ,455-高清嘉佳卡通
 http://10.0.0.1:9000/rtp/239.10.0.200:1025
-#EXTINF:-1,456-标清经济科教
+#EXTINF:-1 group-title="标清" ,456-标清经济科教
 http://10.0.0.1:9000/rtp/239.10.0.201:1025
-#EXTINF:-1,457-标清CCTV1综合
+#EXTINF:-1 group-title="标清" ,457-标清CCTV1综合
 http://10.0.0.1:9000/rtp/239.10.0.202:1025
-#EXTINF:-1,458-高清安徽卫视
+#EXTINF:-1 group-title="高清" ,458-高清安徽卫视
 http://10.0.0.1:9000/rtp/239.10.0.203:1025
-#EXTINF:-1,459-高清四川卫视
+#EXTINF:-1 group-title="高清" ,459-高清四川卫视
 http://10.0.0.1:9000/rtp/239.10.0.204:1025
-#EXTINF:-1,460-高清重庆卫视
+#EXTINF:-1 group-title="高清" ,460-高清重庆卫视
 http://10.0.0.1:9000/rtp/239.10.0.205:1025
-#EXTINF:-1,461-高清金鹰纪实
+#EXTINF:-1 group-title="高清" ,461-高清金鹰纪实
 http://10.0.0.1:9000/rtp/239.10.0.206:1025
-#EXTINF:-1,462-高清CCTV2财经
+#EXTINF:-1 group-title="高清" ,462-高清CCTV2财经
 http://10.0.0.1:9000/rtp/239.10.0.207:1025
-#EXTINF:-1,463-高清CCTV7国防军事
+#EXTINF:-1 group-title="高清" ,463-高清CCTV7国防军事
 http://10.0.0.1:9000/rtp/239.10.0.208:1025
-#EXTINF:-1,464-高清CCTV9纪录
+#EXTINF:-1 group-title="高清" ,464-高清CCTV9纪录
 http://10.0.0.1:9000/rtp/239.10.0.209:1025
-#EXTINF:-1,465-高清CCTV10科教
+#EXTINF:-1 group-title="高清" ,465-高清CCTV10科教
 http://10.0.0.1:9000/rtp/239.10.0.210:1025
-#EXTINF:-1,466-高清CCTV12社会与法
+#EXTINF:-1 group-title="高清" ,466-高清CCTV12社会与法
 http://10.0.0.1:9000/rtp/239.10.0.211:1025
-#EXTINF:-1,467-高清CCTV14少儿
+#EXTINF:-1 group-title="高清" ,467-高清CCTV14少儿
 http://10.0.0.1:9000/rtp/239.10.0.212:1025
-#EXTINF:-1,468-高清CCTV5+体育赛事
+#EXTINF:-1 group-title="高清" ,468-高清CCTV5+体育赛事
 http://10.0.0.1:9000/rtp/239.10.0.213:1025
-#EXTINF:-1,469-无
+#EXTINF:-1 group-title="无" ,469-无
 http://10.0.0.1:9000/rtp/239.10.0.214:1025
-#EXTINF:-1,470-无
+#EXTINF:-1 group-title="无" ,470-无
 http://10.0.0.1:9000/rtp/239.10.0.215:1025
-#EXTINF:-1,471-无
+#EXTINF:-1 group-title="无" ,471-无
 http://10.0.0.1:9000/rtp/239.10.0.216:1025
-#EXTINF:-1,472-无
+#EXTINF:-1 group-title="无" ,472-无
 http://10.0.0.1:9000/rtp/239.10.0.217:1025
-#EXTINF:-1,473-华数CCTV5体育
+#EXTINF:-1 group-title="华数" ,473-华数CCTV5体育
 http://10.0.0.1:9000/rtp/239.10.0.218:1025
-#EXTINF:-1,474-高清江门综合
+#EXTINF:-1 group-title="高清" ,474-高清江门综合
 http://10.0.0.1:9000/rtp/239.10.0.219:1025
-#EXTINF:-1,475-无
+#EXTINF:-1 group-title="无" ,475-无
 http://10.0.0.1:9000/rtp/239.10.0.220:1025
-#EXTINF:-1,476-无
+#EXTINF:-1 group-title="无" ,476-无
 http://10.0.0.1:9000/rtp/239.10.0.221:1025
-#EXTINF:-1,477-高清贵州卫视
+#EXTINF:-1 group-title="高清" ,477-高清贵州卫视
 http://10.0.0.1:9000/rtp/239.10.0.222:1025
-#EXTINF:-1,478-高清CETV1
+#EXTINF:-1 group-title="高清" ,478-高清CETV1
 http://10.0.0.1:9000/rtp/239.10.0.223:1025
-#EXTINF:-1,479-无
+#EXTINF:-1 group-title="无" ,479-无
 http://10.0.0.1:9000/rtp/239.10.0.224:1025
-#EXTINF:-1,480-无
+#EXTINF:-1 group-title="无" ,480-无
 http://10.0.0.1:9000/rtp/239.10.0.225:1025
-#EXTINF:-1,481-无
+#EXTINF:-1 group-title="无" ,481-无
 http://10.0.0.1:9000/rtp/239.10.0.226:1025
-#EXTINF:-1,482-无
+#EXTINF:-1 group-title="无" ,482-无
 http://10.0.0.1:9000/rtp/239.10.0.227:1025
-#EXTINF:-1,483-无
+#EXTINF:-1 group-title="无" ,483-无
 http://10.0.0.1:9000/rtp/239.10.0.228:1025
-#EXTINF:-1,484-无
+#EXTINF:-1 group-title="无" ,484-无
 http://10.0.0.1:9000/rtp/239.10.0.229:1025
-#EXTINF:-1,485-无
+#EXTINF:-1 group-title="无" ,485-无
 http://10.0.0.1:9000/rtp/239.10.0.230:1025
-#EXTINF:-1,486-无
+#EXTINF:-1 group-title="无" ,486-无
 http://10.0.0.1:9000/rtp/239.10.0.231:1025
-#EXTINF:-1,487-标清汽摩
+#EXTINF:-1 group-title="标清" ,487-标清汽摩
 http://10.0.0.1:9000/rtp/239.10.0.232:1025
-#EXTINF:-1,488-无
+#EXTINF:-1 group-title="无" ,488-无
 http://10.0.0.1:9000/rtp/239.10.0.233:1025
-#EXTINF:-1,489-无粤TV
+#EXTINF:-1 group-title="无" ,489-无
 http://10.0.0.1:9000/rtp/239.10.0.234:1025
-#EXTINF:-1,490-无粤TV
+#EXTINF:-1 group-title="无" ,490-无
 http://10.0.0.1:9000/rtp/239.10.0.235:1025
-#EXTINF:-1,491-标清茂名文化生活
+#EXTINF:-1 group-title="标清" ,491-标清茂名文化生活
 http://10.0.0.1:9000/rtp/239.10.0.236:1025
-#EXTINF:-1,492-无粤TV
+#EXTINF:-1 group-title="无" ,492-无
 http://10.0.0.1:9000/rtp/239.10.0.237:1025
-#EXTINF:-1,493-高清茂名综合
+#EXTINF:-1 group-title="高清" ,493-高清茂名综合
 http://10.0.0.1:9000/rtp/239.10.0.238:1025
-#EXTINF:-1,494-标清茂名综合
+#EXTINF:-1 group-title="标清" ,494-标清茂名综合
 http://10.0.0.1:9000/rtp/239.10.0.239:1025
-#EXTINF:-1,495-无
+#EXTINF:-1 group-title="无" ,495-无
 http://10.0.0.1:9000/rtp/239.10.0.240:1025
-#EXTINF:-1,496-无
+#EXTINF:-1 group-title="无" ,496-无
 http://10.0.0.1:9000/rtp/239.10.0.241:1025
-#EXTINF:-1,497-高清珠海
+#EXTINF:-1 group-title="高清" ,497-高清珠海
 http://10.0.0.1:9000/rtp/239.10.0.242:1025
-#EXTINF:-1,498-标清CCTV17农业农村
+#EXTINF:-1 group-title="标清" ,498-标清CCTV17农业农村
 http://10.0.0.1:9000/rtp/239.10.0.243:1025
-#EXTINF:-1,499-高清CCTV17农业农村
+#EXTINF:-1 group-title="高清" ,499-高清CCTV17农业农村
 http://10.0.0.1:9000/rtp/239.10.0.244:1025
-#EXTINF:-1,500-高清CCTV4中文国际
+#EXTINF:-1 group-title="高清" ,500-高清CCTV4中文国际
 http://10.0.0.1:9000/rtp/239.10.0.245:1025
-#EXTINF:-1,501-高清广西卫视
+#EXTINF:-1 group-title="高清" ,501-高清广西卫视
 http://10.0.0.1:9000/rtp/239.10.0.246:1025
 #EXTINF:-1 group-title="咪咕" ,502-咪咕
 http://10.0.0.1:9000/rtp/239.10.0.247:1025
@@ -1013,9 +1013,9 @@ http://10.0.0.1:9000/rtp/239.10.0.250:1025
 http://10.0.0.1:9000/rtp/239.10.0.251:1025
 #EXTINF:-1 group-title="咪咕" ,507-咪咕
 http://10.0.0.1:9000/rtp/239.10.0.252:1025
-#EXTINF:-1,508-高清湛江新闻综合
+#EXTINF:-1 group-title="高清" ,508-高清湛江新闻综合
 http://10.0.0.1:9000/rtp/239.10.0.253:1025
-#EXTINF:-1,509-高清湛江公共
+#EXTINF:-1 group-title="高清" ,509-高清湛江公共
 http://10.0.0.1:9000/rtp/239.10.0.254:1025
-#EXTINF:-1,510-无
+#EXTINF:-1 group-title="无" ,510-无
 http://10.0.0.1:9000/rtp/239.10.0.255:1025
