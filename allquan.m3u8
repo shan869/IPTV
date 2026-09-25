@@ -343,7 +343,7 @@ http://10.0.0.1:5140/rtp/239.11.0.159:1025
 http://10.0.0.1:5140/rtp/239.11.0.160:1025
 #EXTINF:-1 group-title="4K" ,161-4KCCTV4K超高清25FPS
 http://10.0.0.1:5140/rtp/239.11.0.161:1025
-#EXTINF:-1 group-title="粤TV" ,162-4KCCTV4K-粤TV
+#EXTINF:-1 group-title="4K" ,162-4KCCTV4K50
 http://10.0.0.1:5140/rtp/239.11.0.162:1025
 #EXTINF:-1 group-title="无" ,163-无
 http://10.0.0.1:5140/rtp/239.11.0.163:1025
